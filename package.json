@@ -1,0 +1,28 @@
+{
+  "name": "itunes-reviews-word-cloud",
+  "version": "1.0.0",
+  "description": "Create word cloud from iTunes customer reviews.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codesith/itunes-reviews-word-cloud.git"
+  },
+  "keywords": [
+    "node",
+    "raspberry",
+    "io"
+  ],
+  "author": "John Xiao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesith/itunes-reviews-word-cloud/issues"
+  },
+  "homepage": "https://github.com/codesith/itunes-reviews-word-cloud",
+  "dependencies": {
+    "restler": "~3.4.0",
+    "config"  : "~1.17.1"
+  }
+}
