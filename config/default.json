@@ -1,5 +1,9 @@
 {
-  "app" : 474349412,
   "rssBaseURL" : "https://itunes.apple.com/us/rss/customerreviews/",
-  "maxPage" : 10
+  "maxPage" : 10,
+  "apps" : [
+    {"name" : "Nordstrom", "id" : 474349412, "ignores" : "app|nordstroms|nordstrom"},
+    {"name" : "Nordstrom Rack", "id" : 853330019, "ignores" : "app|nordstroms|nordstrom|rack"},
+    {"name" : "Trunk Club", "id" : 635441999, "ignores" : "app|trunk club|trunk|club"}
+  ]
 }
